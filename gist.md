@@ -201,8 +201,8 @@ h(?!t)       matches a h only if is not followed by t, but t will not be part of
 
 ## Author
 
-Nicholas Kosik is a Junior Developer towards the end of his coding bootcamp through UT at Austin
+Honorine Ndom Ndzah is a Software Development Engineer.
 
-Feel free to check out his GitHub repo for all of his previous projects
+You can check out my Github repo for more of my projects.
 
-[GitHub Profile](https://github.com/Thor40)
+GitHub: Honorinenn
